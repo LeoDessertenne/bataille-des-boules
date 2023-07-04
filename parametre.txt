@@ -1,0 +1,11 @@
+LargeurFenetre:1500
+LongueurFenetre:900
+ax_rect:0.2125
+ay_rect:0.001
+bx_rect:0.73125
+by_rect:0.83
+budget1:50
+budget2:50
+r:0.0375
+nb_tour:8
+grossisement:5
